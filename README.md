@@ -1,2 +1,2 @@
 # Python_library
-My Python codes.
+自宅等で組んだコード置き場です。
